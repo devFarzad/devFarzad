@@ -7,7 +7,7 @@
 🧠 learning [nextjs][next], [typescript][typescript]   -->
 💜 loving [java scritp][java script],[react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack],[dart][dart],[C#][C#] 
 
-🏡 work at [datacode.app][datacode.app]  **|** 
+🏡 [datacode.app][datacode.app]  **|** 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
