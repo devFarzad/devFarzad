@@ -1,5 +1,5 @@
 
-## I'm a Developer
+## I'm a developer
 
 ### lead  developer at [datacode][datacode.app], who likes coding.
 
