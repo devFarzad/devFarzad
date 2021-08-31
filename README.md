@@ -1,7 +1,7 @@
 
 ## I'm a Developer
 
-### lead  developer at [datacode][datacode.app] Who likes coding.
+### lead  developer at [datacode][datacode.app], who likes coding.
 
 <!-- 👨🏼‍💻 building [bradgarropy.com][website]  
 🧠 learning [nextjs][next], [typescript][typescript]   -->
