@@ -1,16 +1,32 @@
-### Hi there 👋
 
+## I'm a Developer
 
-**devFarzad/devFarzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### lead  developer at [datacode][datacode.app] who likes emoji and typing in lowercase
 
-Here are some ideas to get you started:
+👨🏼‍💻 building [bradgarropy.com][website]  
+🧠 learning [nextjs][next], [typescript][typescript]  
+💜 loving [java scritp][java script],[react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack],[dart][dart],[C#][C#] 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🏡 work at [datacode.app][datacode.app]  **|** 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[datacode.app]:https://www.datacode.app
+<!-- [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png -->
+[adobe]: https://adobe.com
+[react]: http://reactjs.org
+[firebase]: https://firebase.google.com
+[styled]: https://styled-components.com
+[jamstack]: https://jamstack.org
+[next]: https://nextjs.org
+[C#]:https://docs.microsoft.com/en-us/dotnet/csharp
+[dart]:https://dart.dev
+[java script]:https://www.javascript.com
+<!-- [typescript]: https://www.typescriptlang.org -->
+[website]: https://datacode.app
+[twitter]: https://twitter.com/dev_farzad
+[instagram]: https://www.instagram.com/_far.zad/
+[linkedin]: https://www.linkedin.com/in/farzad-developer/
+<!-- [npm]: https://npmjs.com/~bradgarropy -->
 
