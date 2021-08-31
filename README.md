@@ -3,8 +3,8 @@
 
 ### lead  developer at [datacode][datacode.app] who likes emoji and typing in lowercase
 
-👨🏼‍💻 building [bradgarropy.com][website]  
-🧠 learning [nextjs][next], [typescript][typescript]  
+<!-- 👨🏼‍💻 building [bradgarropy.com][website]  
+🧠 learning [nextjs][next], [typescript][typescript]   -->
 💜 loving [java scritp][java script],[react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack],[dart][dart],[C#][C#] 
 
 🏡 work at [datacode.app][datacode.app]  **|** 
