@@ -9,7 +9,6 @@
 
 🏡 [datacode.app][datacode.app]  **|** 
 🐦 [twitter][twitter] **|** 
-
 👔 [linkedin][linkedin]
 
 [datacode.app]:https://www.datacode.app
