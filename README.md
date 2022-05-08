@@ -19,6 +19,7 @@
 [styled]: https://styled-components.com
 [jamstack]: https://jamstack.org
 [next]: https://nextjs.org
+[nestJs]: https://nestjs.com
 [C#]:https://docs.microsoft.com/en-us/dotnet/csharp
 [dart]:https://dart.dev
 [vueJs]:https://vuejs.org
