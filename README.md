@@ -5,7 +5,7 @@
 
 <!-- 👨🏼‍💻 building [bradgarropy.com][website]  
 🧠 learning [nextjs][next], [typescript][typescript]   -->
-💜 loving [java scritp][java script],[typescriptlang][typescriptlang],[vueJs][vueJs],[nestJs][nestJs], [firebase][firebase],[mongoDB][mongoDB],[postgresql][postgresql], [styled-components][styled], [jamstack][jamstack],[dart][dart],[C#][C#] 
+💜 loving  [java scritp][java script] , [typescriptlang][typescriptlang] , [vueJs][vueJs], [expressjs][expressjs] , [nestJs][nestJs] , [firebase][firebase] , [mongoDB][mongoDB] , [postgresql][postgresql] , [styled-components][styled] , [jamstack][jamstack] , [dart][dart] , [C#][C#] 
 
 🏡 [datacode.app][datacode.app]  **|** 
 🐦 [twitter][twitter] **|** 
@@ -22,6 +22,7 @@
 [postgresql]: https://www.postgresql.org
 [next]: https://nextjs.org
 [nestJs]: https://nestjs.com
+[expressjs]: https://expressjs.com
 [typescriptlang]: https://www.typescriptlang.org
 [C#]:https://docs.microsoft.com/en-us/dotnet/csharp
 [dart]:https://dart.dev
