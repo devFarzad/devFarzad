@@ -5,7 +5,7 @@
 
 <!-- 👨🏼‍💻 building [bradgarropy.com][website]  
 🧠 learning [nextjs][next], [typescript][typescript]   -->
-💜 loving [java scritp][java script],[vueJs][vueJs],[react][react],[nestJs][nestJs], [firebase][firebase], [styled-components][styled], [jamstack][jamstack],[dart][dart],[C#][C#] 
+💜 loving [java scritp][java script],[vueJs][vueJs],[nestJs][nestJs], [firebase][firebase], [styled-components][styled], [jamstack][jamstack],[dart][dart],[C#][C#] 
 
 🏡 [datacode.app][datacode.app]  **|** 
 🐦 [twitter][twitter] **|** 
