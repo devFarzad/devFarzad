@@ -5,7 +5,7 @@
 
 <!-- 👨🏼‍💻 building [bradgarropy.com][website]  
 🧠 learning [nextjs][next], [typescript][typescript]   -->
-💜 loving  [java scritp][java script] , [typescriptlang][typescriptlang] , [vueJs][vueJs], [expressjs][expressjs] , [nestJs][nestJs] , [firebase][firebase] , [mongoDB][mongoDB] , [postgresql][postgresql] , [styled-components][styled] , [jamstack][jamstack] , [dart][dart] , [C#][C#] 
+💜 loving  [java scritp][java script] , [typescriptlang][typescriptlang] , [vueJs][vueJs], [expressjs][expressjs] , [nestJs][nestJs] , [firebase][firebase] ,[supabase][supabase] ,[prisma][prisma] , [mongoDB][mongoDB] , [postgresql][postgresql] , [styled-components][styled] , [jamstack][jamstack] , [dart][dart] , [C#][C#] 
 
 🏡 [datacode.app][datacode.app]  **|** 
 🐦 [twitter][twitter] **|** 
@@ -16,6 +16,8 @@
 [adobe]: https://adobe.com
 [react]: http://reactjs.org
 [firebase]: https://firebase.google.com
+[supabase]: https://supabase.com
+[prisma]: https://www.prisma.io
 [styled]: https://styled-components.com
 [jamstack]: https://jamstack.org
 [mongoDB]: https://www.mongodb.com
