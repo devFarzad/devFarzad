@@ -8,7 +8,7 @@
 💜 loving  [java scritp][java script] , [typescriptlang][typescriptlang] , [vueJs][vueJs], [expressjs][expressjs] , [nestJs][nestJs] , [firebase][firebase] ,[supabase][supabase] ,[prisma][prisma] , [mongoDB][mongoDB] , [postgresql][postgresql] , [styled-components][styled] , [jamstack][jamstack] , [dart][dart] , [C#][C#] 
 
 🏡 [datacode.app][datacode.app]  **|** 
-🐦 [twitter][twitter] **|** 
+
 👔 [linkedin][linkedin]
 
 [datacode.app]:https://www.datacode.app
