@@ -5,7 +5,7 @@
 
 <!-- 👨🏼‍💻 building [bradgarropy.com][website]  
 🧠 learning [nextjs][next], [typescript][typescript]   -->
-💜 loving  [java scritp][java script] , [typescriptlang][typescriptlang] , [expressjs][expressjs] , [nestJs][nestJs] , [firebase][firebase] ,[supabase][supabase] ,[prisma][prisma] , [mongoDB][mongoDB] , [postgresql][postgresql] , [styled-components][styled] , [jamstack][jamstack] , [dart][dart] , [C#][C#] 
+💜 loving  [java scritp][java script] ,[Next JS][Next JS] ,[react][react] , [typescriptlang][typescriptlang] , [expressjs][expressjs] , [nestJs][nestJs] , [firebase][firebase] ,[supabase][supabase] ,[prisma][prisma] , [mongoDB][mongoDB] , [postgresql][postgresql] , [styled-components][styled] , [jamstack][jamstack] , [dart][dart] , [C#][C#] 
 
 🏡 [datacode.app][datacode.app]  **|** 
 👔 [linkedin][linkedin]
@@ -14,6 +14,7 @@
 <!-- [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png -->
 [adobe]: https://adobe.com
 [react]: http://reactjs.org
+[Next JS]: https://nextjs.org
 [firebase]: https://firebase.google.com
 [supabase]: https://supabase.com
 [prisma]: https://www.prisma.io
