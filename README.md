@@ -5,7 +5,7 @@
 
 <!-- 👨🏼‍💻 building [bradgarropy.com][website]  
 🧠 learning [nextjs][next], [typescript][typescript]   -->
-💜 loving  [java scritp][java script] ,[Next JS][Next JS] ,[react][react] , [typescriptlang][typescriptlang] , [expressjs][expressjs] , [nestJs][nestJs] , [firebase][firebase] ,[supabase][supabase] ,[prisma][prisma] , [mongoDB][mongoDB] , [postgresql][postgresql] , [styled-components][styled] , [jamstack][jamstack] , [dart][dart] , [C#][C#] 
+💜 loving  [javascritp][javascript] ,[Next JS][Next JS] ,[react][react] , [typescriptlang][typescriptlang] , [expressjs][expressjs] , [nestJs][nestJs] , [firebase][firebase] ,[supabase][supabase] ,[prisma][prisma] , [mongoDB][mongoDB] , [postgresql][postgresql] , [styled-components][styled] , [jamstack][jamstack] , [dart][dart] , [C#][C#] 
 
 🏡 [datacode.app][datacode.app]  **|** 
 👔 [linkedin][linkedin]
@@ -28,7 +28,7 @@
 [typescriptlang]: https://www.typescriptlang.org
 [C#]:https://docs.microsoft.com/en-us/dotnet/csharp
 [dart]:https://dart.dev
-[java script]:https://www.javascript.com
+[javascript]:https://www.javascript.com
 <!-- [typescript]: https://www.typescriptlang.org -->
 [website]: https://datacode.app
 [twitter]: https://twitter.com/dev_farzad
