@@ -34,16 +34,45 @@ As a **Full-Stack Software Architect**, I specialize in designing comprehensive 
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devFarzad&theme=darkhub&column=-1&margin-w=15&margin-h=15" alt="Achievement Landscape" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=devFarzad&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=devFarzad&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=devFarzad&show_icons=true" alt="GitHub Stats" />
+  </picture>
 </div>
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=devFarzad&theme=transparent&show_icons=true&include_all_commits=true" alt="Comprehensive Code Metrics" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=devFarzad&theme=dark" alt="Consistent Technological Contribution" />
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=devFarzad&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=devFarzad&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devFarzad&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devFarzad&theme=transparent&layout=compact" alt="Technology Proficiency Map" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devFarzad&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devFarzad&layout=compact&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devFarzad&layout=compact" alt="Top Languages" />
+  </picture>
 </div>
 
 ## 🌍 Professional Networks
