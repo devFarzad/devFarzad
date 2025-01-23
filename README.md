@@ -89,7 +89,7 @@ As a **Full-Stack Software Architect**, I specialize in designing comprehensive 
 ---
 
 <div align="center">
-  🔭 **Architecting Digital Futures, One Innovative Solution at a Time** 🌈
+  🔭 **Architecting Digital Futures, One Innovative Solution at a Time** 
 </div>
 
 <div align="center">
