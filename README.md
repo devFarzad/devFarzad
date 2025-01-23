@@ -1,4 +1,4 @@
-# 🔬 Farzad Rahimi | Innovative Software Architect & Digital Strategy Engineer
+# 🔬 Farzad | Innovative Software Architect & Digital Strategy Engineer
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=1E90FF&center=true&width=800&lines=Transforming+Complex+Challenges+into+Elegant+Digital+Solutions;Full-Stack+Developer+%7C+System+Design+Specialist;Bridging+Technology+and+Strategic+Innovation" alt="Professional Developer Narrative" />
