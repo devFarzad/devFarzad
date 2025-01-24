@@ -31,50 +31,6 @@ As a **Full-Stack Software Architect**, I specialize in designing comprehensive 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Firebase](https://img.shields.io/badge/Firebase-Real--time%20Infrastructure-FFCA28?style=for-the-badge&logo=firebase)
 
-## 📊 Performance Metrics
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=devFarzad&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=devFarzad&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=devFarzad&show_icons=true" alt="GitHub Stats" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=devFarzad&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=devFarzad&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devFarzad&hide_border=true" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devFarzad&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devFarzad&layout=compact&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devFarzad&layout=compact" alt="Top Languages" />
-  </picture>
-</div>
-
 ## 🌍 Professional Networks
 
 <div align="center">
